@@ -28,10 +28,10 @@ $("#KujiandikishaId").on("click", function(){
     window.alert("Kipengele hiki hakiko tayari");
 });
 
-$("#KujiandikishaId").off("click");
-$("#KujiandikishaId").on("click", function(){
-    window.alert("Kipengele hiki hakiko tayari");
-});
+// $("#KujiandikishaId").off("click");
+// $("#KujiandikishaId").on("click", function(){
+//     window.alert("Kipengele hiki hakiko tayari");
+// });
 
 $("#LingalaId").off("click");
 $("#LingalaId").on("click", function(){
